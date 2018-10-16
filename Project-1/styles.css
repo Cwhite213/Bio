@@ -23,3 +23,10 @@ h3 {
     padding: 10px;
     text-align: center;
 }
+#name {
+    font-size:8vw;
+
+}
+#home, #alive {
+    font-size:2vw;
+}
