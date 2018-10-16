@@ -1,12 +1,11 @@
-h1, h2, h3, h4, h5, h6 {
+* {
     font-family: 'PT Serif', serif;
+    background-color: bisque;
 }
 p, li {
     font-family: 'Montserrat', sans-serif;
 }
-h1, h2 {
-        text-align: center;
-}
+
 h1 {
     font-size: 48px;
 }
@@ -16,15 +15,11 @@ h2 {
 h3 {
     font-size: 28px;
 }
-}
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 60%;
     padding: 10px;
-}
-body{
-    background-color: bisque;
-
+    text-align: center;
 }
