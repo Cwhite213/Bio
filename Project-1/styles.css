@@ -4,6 +4,10 @@
 }
 p, li {
     font-family: 'Montserrat', sans-serif;
+    width: 52ch;
+    font-size: 2vw;
+    line-height: 1.5;
+    margin: 0 .5vw;
 }
 
 h1 {
